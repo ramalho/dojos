@@ -41,3 +41,9 @@ def teste_4000():
 
 def teste_90():
 	assert ar(90) == 'XC'
+
+def teste_14():
+	assert ar(14) == 'XIV'
+
+def teste_97():
+	assert ar(190) == 'CXC'
